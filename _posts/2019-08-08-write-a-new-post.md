@@ -282,7 +282,7 @@ image:
 ---
 ```
 
-> You can observe LQIP in the preview image of post [_Text and Typography_](blog2/posts/text-and-typography/).
+> You can observe LQIP in the preview image of post [_Text and Typography_](/posts/text-and-typography/index.html).
 
 
 For normal images:

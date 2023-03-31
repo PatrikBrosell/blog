@@ -52,7 +52,7 @@ jobs:
 
       - name: Tree
         run: |
-          sudo apt install tree -y && tree .
+          sudo apt install tree -y && tree _site
 
 
       - name: Test site
